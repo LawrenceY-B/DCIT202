@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "5f15d8852a025143f9593a7c"
+  },
+  "image": "https://www.citypng.com/public/uploads/preview/-11591925787cggjhepdvq.png",
+  "brand": "Sony",
+  "price": 250,
+  "rating": 1,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "PlayStation 5",
+  "description": "Experience the best gaming feel",
+  "category": {
+    "$oid": "5f15d5cdcb4a6642bddc0fe9"
+  },
+  "countInStock": 25,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15d92ee520d44421ed8e9b"
+  },
+  "image": "https://www.pngall.com/wp-content/uploads/5/Apple-iPhone-12-PNG-Download-Image.png",
+  "brand": "Apple",
+  "price": 350.9,
+  "rating": 5,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "Iphone 12",
+  "description": "Experience the wonderful camera quality and system performance",
+  "category": {
+    "$oid": "5f15d5b7cb4a6642bddc0fe8"
+  },
+  "countInStock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15d964e520d44421ed8e9c"
+  },
+  "image": "https://png.pngitem.com/pimgs/s/301-3015399_beats-by-dr-beats-solo-2-black-luxe.png",
+  "brand": "Beats by Dre",
+  "price": 1350.9,
+  "rating": 5,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "Beats Solo 3",
+  "description": "Quality Sounds",
+  "category": {
+    "$oid": "5f15d5b7cb4a6642bddc0fe8"
+  },
+  "countInStock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15d9b3e520d44421ed8e9d"
+  },
+  "image": "https://png.pngitem.com/pimgs/s/43-437576_transparent-macbook-png-transparent-macbook-2017-rose-gold.png",
+  "brand": "Apple",
+  "price": 490.9,
+  "rating": 5,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "Macbook pro",
+  "description": "A laptop known for its performance",
+  "category": {
+    "$oid": "5f15d5b7cb4a6642bddc0fe8"
+  },
+  "countInStock": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15da13e520d44421ed8e9e"
+  },
+  "image": "https://png.pngitem.com/pimgs/s/193-1937425_g-plan-vintage-the-sixty-six-large-sofa.png",
+  "brand": "Mobilix",
+  "price": 1000,
+  "rating": 5,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "Sofa",
+  "description": "Big Sofa for living room",
+  "category": {
+    "$oid": "5f15d5b2cb4a6642bddc0fe7"
+  },
+  "countInStock": 2,
+  "__v": 0
+}]
